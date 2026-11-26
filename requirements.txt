@@ -1,0 +1,9 @@
+faster-whisper>=1.0
+sounddevice>=0.4.6
+pyperclip>=1.8
+pystray>=0.19
+pillow>=10.0
+numpy>=1.24
+# Ускорение на видеокартах NVIDIA (опционально, ~1 ГБ):
+# nvidia-cublas-cu12
+# nvidia-cudnn-cu12==9.*

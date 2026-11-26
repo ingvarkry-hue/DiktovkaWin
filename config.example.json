@@ -1,0 +1,9 @@
+{
+  "hotkey": "eisu",
+  "language": "ru",
+  "model": "large-v3-turbo",
+  "device": "auto",
+  "beep": false,
+  "auto_send": false,
+  "prompt": "Привет. Это голосовое сообщение на русском языке, с точками и запятыми."
+}
